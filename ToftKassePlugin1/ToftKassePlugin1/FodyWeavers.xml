@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers>
+  <Costura CreateTemporaryAssemblies='true' IncludeDebugSymbols='false'>
+    <ExcludeAssemblies>
+      Uniconta.Common
+      Uniconta.WindowsAPI
+    </ExcludeAssemblies>
+  </Costura>
+</Weavers>
